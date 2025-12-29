@@ -169,6 +169,7 @@ These plots help visualize learning behavior and model limitations.
 - Pandas
 - Matplotlib
 - scikit-learn (validation only)
+- Jupyter Notebook
 
 ---
 
@@ -179,16 +180,6 @@ These plots help visualize learning behavior and model limitations.
 - Underfitting is a feature problem, not an algorithm problem
 - Validation builds confidence in custom implementations
 - Fundamentals matter more than libraries
-
----
-
-## 🚀 Future Improvements
-
-- Multivariate Linear Regression
-- Polynomial Regression
-- Regularization (Ridge / Lasso)
-- Proper evaluation metrics (R², RMSE)
-- Train–test split
 
 ---
 
